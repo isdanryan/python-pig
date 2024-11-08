@@ -1,2 +1,3 @@
 # python-pig
- Simple Pig game using python
+
+Simple Pig game for 2 - 4 players, built using python
